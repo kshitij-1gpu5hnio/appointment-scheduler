@@ -1,6 +1,6 @@
 # Appointment Scheduler MERN Stack
 
-This is a appointment scheduler built using MongoDb, Express, React and Nodejs, to track the spread of coronavirus.
+This is a appointment scheduler built using MongoDb, Express, React and Nodejs.
 
 ## Getting Started
 
